@@ -16,6 +16,39 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=HZ4zs031HDg">
+        <img src="https://img.youtube.com/vi/HZ4zs031HDg/mqdefault.jpg" width="250" alt="Video 1"/>
+        <br/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=iR17mpLGIUA">
+        <img src="https://img.youtube.com/vi/iR17mpLGIUA/mqdefault.jpg" width="250" alt="Video 2"/>
+        <br/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=sZIUEMDac8M">
+        <img src="https://img.youtube.com/vi/sZIUEMDac8M/mqdefault.jpg" width="250" alt="Video 3"/>
+        <br/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://www.youtube.com/@raayaserena">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 📺 Latest Articles & AI Reads
 
 <!-- Medium article cards -->
