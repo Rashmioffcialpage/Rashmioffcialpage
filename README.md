@@ -16,6 +16,70 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 
 ---
 
+### 📺 Latest Articles & AI Reads
+
+<!-- Medium article cards -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@rashmithimmaraju14/why-is-ai-slow-at-understanding-images-and-how-can-we-fix-it-5490b74f43e8">
+        <img src="https://img.shields.io/badge/READ-Why%20Is%20AI%20Slow%20at%20Understanding%20Images%3F-FF6B35?style=for-the-badge&logo=medium&logoColor=white"/>
+        <br/>
+        <b>Why Is AI Slow at Understanding Images?</b>
+      </a>
+      <br/><i>A deep dive into visual AI bottlenecks</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@rashmithimmaraju14">
+        <img src="https://img.shields.io/badge/READ-More%20Articles%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+        <br/>
+        <b>More Articles Coming Soon...</b>
+      </a>
+      <br/><i>AI · ML · Computer Vision · Research</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@rashmithimmaraju14">
+        <img src="https://img.shields.io/badge/FOLLOW-Stay%20Updated-00AB6C?style=for-the-badge&logo=medium&logoColor=white"/>
+        <br/>
+        <b>Follow for AI & ML updates</b>
+      </a>
+      <br/><i>Published researcher writing about AI</i>
+    </td>
+  </tr>
+</table>
+
+➡️ [Read all my articles on Medium →](https://medium.com/@rashmithimmaraju14)
+
+---
+
+### 🧠 AI & ML Resources I Love
+
+> *Some of the best places to learn AI, ML, Computer Vision & stay updated*
+
+#### 🤖 Foundational Learning
+- 📘 [**fast.ai**](https://www.fast.ai/) — Practical deep learning for coders, free & amazing
+- 📘 [**Deep Learning Specialization – Andrew Ng**](https://www.coursera.org/specializations/deep-learning) — The gold standard for ML fundamentals
+- 📘 [**CS231n – Stanford**](http://cs231n.stanford.edu/) — Best computer vision course on the planet
+- 📘 [**Hugging Face Course**](https://huggingface.co/learn) — Transformers, NLP, diffusion models
+
+#### 🔬 Research & Papers
+- 📄 [**Papers With Code**](https://paperswithcode.com/) — Latest ML papers + open source code
+- 📄 [**Arxiv CS.CV / CS.LG**](https://arxiv.org/list/cs.CV/recent) — Where all the cutting-edge research drops first
+- 📄 [**Semantic Scholar**](https://www.semanticscholar.org/) — AI-powered research discovery
+
+#### 🤖 OpenAI & Claude Resources
+- 🔗 [**OpenAI Cookbook**](https://cookbook.openai.com/) — Practical GPT-4, DALL·E & API guides
+- 🔗 [**OpenAI Research**](https://openai.com/research) — Latest papers from OpenAI
+- 🔗 [**Anthropic Claude Docs**](https://docs.anthropic.com/) — Claude API, prompting guides & research
+- 🔗 [**Anthropic Research**](https://www.anthropic.com/research) — Constitutional AI & safety research
+
+#### 📊 Stay Current
+- 🗞️ [**The Batch – DeepLearning.AI**](https://www.deeplearning.ai/the-batch/) — Andrew Ng's weekly AI newsletter
+- 🗞️ [**Import AI – Jack Clark**](https://importai.substack.com/) — Weekly AI research roundup
+- 🗞️ [**ML News by Yannic Kilcher**](https://www.youtube.com/@YannicKilcher) — Deep paper breakdowns on YouTube
+
+---
+
 ### 🛠️ My Favorite Tools
 
 #### 👩‍💻 Programming Languages
