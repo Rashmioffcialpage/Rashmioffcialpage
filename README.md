@@ -2,6 +2,7 @@
 
 Welcome to my page!  
 I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, currently living in **New York, USA 🗽**.
+Started with a curiosity about how machines think. Ended up building AI systems that predict wildfires, detect disease, and monitor food quality. Still figuring it out — and having a lot of fun doing it.
 
 ### 🎮 You made it this far... take a break & play!
 
