@@ -5,17 +5,6 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 
 ---
 
-### Here's some things I made that you might like:
-
-* 🔥 [**Wildfire Spread Prediction**](https://github.com/Rashmioffcialpage) — ML system forecasting wildfire propagation from environmental sensor data using supervised learning & feature engineering
-* 🌿 [**Computer Vision Project**](https://github.com/Rashmioffcialpage/open_drive_Computer_vision_project) — End-to-end object detection & image classification pipeline using CNNs and transfer learning
-* 🔬 [**Skin Lesion DL Classifier**](https://github.com/Rashmioffcialpage/Skin-lesion-analysis-dl-classifier) — Vision Transformer (ViT) model for skin lesion classification on the HAM10000 dermatology dataset
-* 🏥 [**Predicting Diabetes**](https://github.com/Rashmioffcialpage/Predicting-Diabetes-Using-Logistic-Regression) — Can we accurately predict diabetes using standard medical indicators & optimize the decision threshold?
-* ⚡ [**FastVLM Agent Benchmark**](https://github.com/Rashmioffcialpage/fastvlm-agent-benchmark-) — Benchmarking vision-language model agents for speed, accuracy & real-world task performance
-* ✍️ [**My writing on Medium**](https://medium.com/@rashmithimmaraju14) — I write about AI, ML, computer vision & making research actually understandable
-* 🎥 [**My YouTube Channel**](https://www.youtube.com/@raayaserena) — Career advice, AI journeys & tips for aspiring tech professionals
-
-
 ---
 
 ### 🎮 You made it this far... take a break & play!
