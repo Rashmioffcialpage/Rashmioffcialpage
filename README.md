@@ -1,4 +1,6 @@
-## 🤖 Hey! Nice to see you.
+## Hello! AI lovers.
+
+##Making it or breaking it... probably both at the same time 
 
 Welcome to my page!  
 I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, currently living in **New York, USA 🗽**.
