@@ -115,17 +115,23 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 
 ### 🛠️ My Favorite Tools
 
-#### 👩‍💻 Programming Languages
+#### 👩‍💻 Programming and Markup Languages
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 </p>
 
 #### 🤖 ML / AI Frameworks & Libraries
@@ -140,6 +146,20 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 <img alt="XGBoost" src="https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square&logo=python&logoColor=white" />
 <img alt="LightGBM" src="https://img.shields.io/badge/-LightGBM-02569B?style=flat-square&logo=python&logoColor=white" />
 <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=python&logoColor=black" />
+<img alt="LightGBM" src="https://img.shields.io/badge/-LightGBM-02569B?style=flat-square&logo=python&logoColor=white" />
+<img alt="CatBoost" src="https://img.shields.io/badge/-CatBoost-FFCC00?style=flat-square&logo=python&logoColor=black" />
+<img alt="SHAP" src="https://img.shields.io/badge/-SHAP-FF6F00?style=flat-square&logo=python&logoColor=white" />
+<img alt="NLTK" src="https://img.shields.io/badge/-NLTK-154f3c?style=flat-square&logo=python&logoColor=white" />
+<img alt="SpaCy" src="https://img.shields.io/badge/-SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+<img alt="FastAI" src="https://img.shields.io/badge/-FastAI-00A98F?style=flat-square&logo=python&logoColor=white" />
+<img alt="Transformers" src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="Claude API" src="https://img.shields.io/badge/-Claude API-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="Gradio" src="https://img.shields.io/badge/-Gradio-FF7C00?style=flat-square&logo=python&logoColor=white" />
+<img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img alt="MLflow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img alt="Weights & Biases" src="https://img.shields.io/badge/-W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
 </p>
 
 #### 📊 Data Science & Visualization
@@ -151,23 +171,32 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+<img alt="Statsmodels" src="https://img.shields.io/badge/-Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img alt="Power BI" src="https://img.shields.io/badge/-Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Cloud
+#### 🗄️ Databases and Cloud Hosting
 
 <p>
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="GCP" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
 <img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" />
+<img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub Pages-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-#### 💻 Software & Tools
+#### 💻 Software and Tools
 
 <p>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -178,6 +207,14 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+<img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+<img alt="Overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white" />
+<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+<img alt="Zoom" src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
 ---
