@@ -3,10 +3,6 @@
 Welcome to my page!  
 I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, currently living in **New York, USA 🗽**.
 
----
-
----
-
 ### 🎮 You made it this far... take a break & play!
 
 > *Welcome to my profile! Since you're here, why not have some fun? 👇*
