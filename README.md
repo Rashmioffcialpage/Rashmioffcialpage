@@ -69,32 +69,7 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 
 ---
 
-### 🧮 Math & AI Foundations worth bookmarking
 
-> *The math behind the magic — resources that will actually make you better at AI*
-
-#### 📐 Mathematics for ML
-* 📘 [**Mathematics for Machine Learning**](https://mml-book.github.io/) — Free book covering linear algebra, calculus, probability for ML — bookmark this!
-* 📘 [**3Blue1Brown – Linear Algebra**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — The most beautiful visual explanation of linear algebra ever made
-* 📘 [**3Blue1Brown – Neural Networks**](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) — Builds intuition for how deep learning actually works
-* 📘 [**Khan Academy – Statistics & Probability**](https://www.khanacademy.org/math/statistics-probability) — Free, solid foundation for understanding ML algorithms
-* 📘 [**Gilbert Strang – Linear Algebra MIT**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) — The legendary MIT course, completely free
-
-#### 🤖 AI Playgrounds & Practice
-* 🛝 [**Teachable Machine by Google**](https://teachablemachine.withgoogle.com/) — Train a real ML model in your browser, no code needed
-* 🛝 [**ML Playground**](https://ml-playground.com/) — Visualize how ML algorithms actually draw decision boundaries
-* 🛝 [**TensorFlow Playground**](https://playground.tensorflow.org/) — Play with neural networks live in the browser
-* 🛝 [**Kaggle**](https://www.kaggle.com/) — Free datasets, notebooks, competitions — the best place to practice ML
-* 🛝 [**Colab Notebooks**](https://colab.research.google.com/) — Free GPU/TPU for running your ML experiments
-
-#### 🏆 Competitions & Communities
-* 🥇 [**Kaggle Competitions**](https://www.kaggle.com/competitions) — Real-world ML problems with prize money & community feedback
-* 🥇 [**DrivenData**](https://www.drivendata.org/) — ML competitions focused on social good & humanitarian causes
-* 🥇 [**AICrowd**](https://www.aicrowd.com/) — Research-focused ML challenges from top universities & companies
-* 💬 [**r/MachineLearning**](https://www.reddit.com/r/MachineLearning/) — Where researchers discuss papers, trends & breakthroughs
-* 💬 [**Hugging Face Community**](https://huggingface.co/join) — The most active open-source AI community right now
-
----
 
 ### 📺 Latest YouTube Videos
 
@@ -192,7 +167,32 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 - 🗞️ [**ML News by Yannic Kilcher**](https://www.youtube.com/@YannicKilcher) — Deep paper breakdowns on YouTube
 
 ---
+### 🧮 Math & AI Foundations worth bookmarking
 
+> *The math behind the magic — resources that will actually make you better at AI*
+
+#### 📐 Mathematics for ML
+* 📘 [**Mathematics for Machine Learning**](https://mml-book.github.io/) — Free book covering linear algebra, calculus, probability for ML — bookmark this!
+* 📘 [**3Blue1Brown – Linear Algebra**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — The most beautiful visual explanation of linear algebra ever made
+* 📘 [**3Blue1Brown – Neural Networks**](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) — Builds intuition for how deep learning actually works
+* 📘 [**Khan Academy – Statistics & Probability**](https://www.khanacademy.org/math/statistics-probability) — Free, solid foundation for understanding ML algorithms
+* 📘 [**Gilbert Strang – Linear Algebra MIT**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) — The legendary MIT course, completely free
+
+#### 🤖 AI Playgrounds & Practice
+* 🛝 [**Teachable Machine by Google**](https://teachablemachine.withgoogle.com/) — Train a real ML model in your browser, no code needed
+* 🛝 [**ML Playground**](https://ml-playground.com/) — Visualize how ML algorithms actually draw decision boundaries
+* 🛝 [**TensorFlow Playground**](https://playground.tensorflow.org/) — Play with neural networks live in the browser
+* 🛝 [**Kaggle**](https://www.kaggle.com/) — Free datasets, notebooks, competitions — the best place to practice ML
+* 🛝 [**Colab Notebooks**](https://colab.research.google.com/) — Free GPU/TPU for running your ML experiments
+
+#### 🏆 Competitions & Communities
+* 🥇 [**Kaggle Competitions**](https://www.kaggle.com/competitions) — Real-world ML problems with prize money & community feedback
+* 🥇 [**DrivenData**](https://www.drivendata.org/) — ML competitions focused on social good & humanitarian causes
+* 🥇 [**AICrowd**](https://www.aicrowd.com/) — Research-focused ML challenges from top universities & companies
+* 💬 [**r/MachineLearning**](https://www.reddit.com/r/MachineLearning/) — Where researchers discuss papers, trends & breakthroughs
+* 💬 [**Hugging Face Community**](https://huggingface.co/join) — The most active open-source AI community right now
+
+---
 ### 🛠️ My Favorite Tools
 
 #### 👩‍💻 Programming and Markup Languages
