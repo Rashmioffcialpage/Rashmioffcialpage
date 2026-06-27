@@ -7,12 +7,107 @@ I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, curren
 
 ### Here's some things I made that you might like:
 
-* 🔥 [**Wildfire Spread Prediction**](https://github.com/Rashmioffcialpage) — ML system forecasting wildfire propagation from environmental data
-* 🌿 [**Computer Vision Project**](https://github.com/Rashmioffcialpage/open_drive_Computer_vision_project) — Object detection & image classification pipeline
-* 🔬 [**Skin Lesion DL Classifier**](https://github.com/Rashmioffcialpage/Skin-lesion-analysis-dl-classifier) — ViT model for skin lesion classification (HAM10000)
-* 🏥 [**Predicting Diabetes**](https://github.com/Rashmioffcialpage/Predicting-Diabetes-Using-Logistic-Regression) — Can we accurately predict diabetes using standard medical indicators?
-* ⚡ [**FastVLM Agent Benchmark**](https://github.com/Rashmioffcialpage/fastvlm-agent-benchmark-) — Benchmarking vision-language model agents
-* ✍️ [**My writing on Medium**](https://medium.com/@rashmithimmaraju14) — I write about AI, ML, and computer vision
+* 🔥 [**Wildfire Spread Prediction**](https://github.com/Rashmioffcialpage) — ML system forecasting wildfire propagation from environmental sensor data using supervised learning & feature engineering
+* 🌿 [**Computer Vision Project**](https://github.com/Rashmioffcialpage/open_drive_Computer_vision_project) — End-to-end object detection & image classification pipeline using CNNs and transfer learning
+* 🔬 [**Skin Lesion DL Classifier**](https://github.com/Rashmioffcialpage/Skin-lesion-analysis-dl-classifier) — Vision Transformer (ViT) model for skin lesion classification on the HAM10000 dermatology dataset
+* 🏥 [**Predicting Diabetes**](https://github.com/Rashmioffcialpage/Predicting-Diabetes-Using-Logistic-Regression) — Can we accurately predict diabetes using standard medical indicators & optimize the decision threshold?
+* ⚡ [**FastVLM Agent Benchmark**](https://github.com/Rashmioffcialpage/fastvlm-agent-benchmark-) — Benchmarking vision-language model agents for speed, accuracy & real-world task performance
+* ✍️ [**My writing on Medium**](https://medium.com/@rashmithimmaraju14) — I write about AI, ML, computer vision & making research actually understandable
+* 🎥 [**My YouTube Channel**](https://www.youtube.com/@raayaserena) — Career advice, AI journeys & tips for aspiring tech professionals
+
+
+---
+
+### 🎮 You made it this far... take a break & play!
+
+> *Welcome to my profile! Since you're here, why not have some fun? 👇*
+
+#### 🕹️ Play directly in your browser — no install needed!
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://play2048.co/"><img src="https://img.shields.io/badge/Play-2048-ED8B00?style=for-the-badge&logoColor=white"/><br/><b>2048 🔢</b></a><br/><i>Swipe to merge tiles!</i>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.nytimes.com/games/wordle/index.html"><img src="https://img.shields.io/badge/Play-Wordle-538D4E?style=for-the-badge&logoColor=white"/><br/><b>Wordle 🟩</b></a><br/><i>Guess the 5-letter word!</i>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://lichess.org/learn"><img src="https://img.shields.io/badge/Play-Chess-000000?style=for-the-badge&logo=lichess&logoColor=white"/><br/><b>Chess ♟️</b></a><br/><i>Free & open source!</i>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://neal.fun/infinite-craft/"><img src="https://img.shields.io/badge/Play-Infinite Craft-FF6B6B?style=for-the-badge&logoColor=white"/><br/><b>Infinite Craft 🔮</b></a><br/><i>Combine elements endlessly!</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://typeracer.com"><img src="https://img.shields.io/badge/Play-TypeRacer-FF4500?style=for-the-badge&logoColor=white"/><br/><b>TypeRacer ⌨️</b></a><br/><i>Race to type the fastest!</i>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.chess.com/puzzles"><img src="https://img.shields.io/badge/Play-Chess Puzzles-769656?style=for-the-badge&logoColor=white"/><br/><b>Chess Puzzles 🧩</b></a><br/><i>Solve daily puzzles!</i>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.geoguessr.com/"><img src="https://img.shields.io/badge/Play-GeoGuessr-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white"/><br/><b>GeoGuessr 🌍</b></a><br/><i>Guess where you are!</i>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://skribbl.io/"><img src="https://img.shields.io/badge/Play-skribbl.io-9B59B6?style=for-the-badge&logoColor=white"/><br/><b>skribbl.io 🎨</b></a><br/><i>Draw & guess with friends!</i>
+    </td>
+  </tr>
+</table>
+
+#### 🤖 AI-themed fun — because we're all nerds here!
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://quickdraw.withgoogle.com/"><img src="https://img.shields.io/badge/Play-Quick Draw!-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/><b>Quick Draw! ✏️</b></a><br/><i>Draw & let AI guess it!</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://teachablemachine.withgoogle.com/"><img src="https://img.shields.io/badge/Try-Teachable Machine-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/><b>Train an AI 🤖</b></a><br/><i>Build your own ML model — no code!</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://playground.tensorflow.org/"><img src="https://img.shields.io/badge/Try-TF Playground-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/><b>Neural Net Playground 🧠</b></a><br/><i>Play with neural networks live!</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.akinator.com/"><img src="https://img.shields.io/badge/Play-Akinator-1E90FF?style=for-the-badge&logoColor=white"/><br/><b>Akinator 🧞</b></a><br/><i>AI that reads your mind!</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://thisworddoesnotexist.com/"><img src="https://img.shields.io/badge/Try-This Word DNE-6C3483?style=for-the-badge&logoColor=white"/><br/><b>Fake Words 📚</b></a><br/><i>AI-generated fake dictionary!</i>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://monkeytype.com/"><img src="https://img.shields.io/badge/Play-MonkeyType-E2B714?style=for-the-badge&logoColor=black"/><br/><b>MonkeyType ⚡</b></a><br/><i>Minimal typing speed test!</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧮 Math & AI Foundations worth bookmarking
+
+> *The math behind the magic — resources that will actually make you better at AI*
+
+#### 📐 Mathematics for ML
+* 📘 [**Mathematics for Machine Learning**](https://mml-book.github.io/) — Free book covering linear algebra, calculus, probability for ML — bookmark this!
+* 📘 [**3Blue1Brown – Linear Algebra**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) — The most beautiful visual explanation of linear algebra ever made
+* 📘 [**3Blue1Brown – Neural Networks**](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) — Builds intuition for how deep learning actually works
+* 📘 [**Khan Academy – Statistics & Probability**](https://www.khanacademy.org/math/statistics-probability) — Free, solid foundation for understanding ML algorithms
+* 📘 [**Gilbert Strang – Linear Algebra MIT**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) — The legendary MIT course, completely free
+
+#### 🤖 AI Playgrounds & Practice
+* 🛝 [**Teachable Machine by Google**](https://teachablemachine.withgoogle.com/) — Train a real ML model in your browser, no code needed
+* 🛝 [**ML Playground**](https://ml-playground.com/) — Visualize how ML algorithms actually draw decision boundaries
+* 🛝 [**TensorFlow Playground**](https://playground.tensorflow.org/) — Play with neural networks live in the browser
+* 🛝 [**Kaggle**](https://www.kaggle.com/) — Free datasets, notebooks, competitions — the best place to practice ML
+* 🛝 [**Colab Notebooks**](https://colab.research.google.com/) — Free GPU/TPU for running your ML experiments
+
+#### 🏆 Competitions & Communities
+* 🥇 [**Kaggle Competitions**](https://www.kaggle.com/competitions) — Real-world ML problems with prize money & community feedback
+* 🥇 [**DrivenData**](https://www.drivendata.org/) — ML competitions focused on social good & humanitarian causes
+* 🥇 [**AICrowd**](https://www.aicrowd.com/) — Research-focused ML challenges from top universities & companies
+* 💬 [**r/MachineLearning**](https://www.reddit.com/r/MachineLearning/) — Where researchers discuss papers, trends & breakthroughs
+* 💬 [**Hugging Face Community**](https://huggingface.co/join) — The most active open-source AI community right now
 
 ---
 
