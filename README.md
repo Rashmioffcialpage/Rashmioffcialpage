@@ -346,14 +346,6 @@ Started with a curiosity about how machines think. Ended up building AI systems 
 
 ---
 
-### 📝 My latest posts
-
-- [<img src="https://img.shields.io/badge/-new-brightgreen?style=flat-square"/> **Why Is AI Slow at Understanding Images — And How Can We Fix It?**](https://medium.com/@rashmithimmaraju14/why-is-ai-slow-at-understanding-images-and-how-can-we-fix-it-5490b74f43e8)  
-  *A deep dive into visual AI bottlenecks and the solutions being built to overcome them.*
-
-➡️ [More posts on Medium →](https://medium.com/@rashmithimmaraju14)
-
----
 
 ### 📈 Stats and Activity
 
