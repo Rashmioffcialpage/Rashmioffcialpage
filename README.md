@@ -3,7 +3,7 @@
 ## Just having fun building chatbots
 
 Welcome to my page!  
-I'm Rashmi, an **AI / ML Engineer & Researcher** from **India 🇮🇳**, currently living in **New York, USA 🗽**.
+I'm Rashmi, an **AI / ML Engineer & Researcher**, currently living in **New York, USA 🗽**.
 
 Started with a curiosity about how machines think. Ended up building AI systems that predict wildfires, detect disease, and monitor food quality. 
 
