@@ -73,6 +73,16 @@ Started with a curiosity about how machines think. Ended up building AI systems 
 
 ---
 
+### 🎓 This Week's USA University Job Openings
+
+> *Auto-updated daily — fresh faculty, research & staff openings at colleges and universities across the USA, posted in the last 7 days.*
+
+<!-- UNIVERSITY-JOBS:START -->
+_Job listings will appear here after the first scheduled update. See `.github/workflows/update-university-jobs.yml` for setup._
+<!-- UNIVERSITY-JOBS:END -->
+
+---
+
 
 
 ### 📺 Latest YouTube Videos
